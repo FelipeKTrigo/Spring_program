@@ -11,7 +11,7 @@ public class app {
         autor a = factory.getBean(autor.class);
         a.setNome("robin hood");
         livro.setNome("as aventuras de pi");
-        livro.setCodigo("frwffs");
+        livro.setCodigo("Dkw");
         livro.exibir();
     }
 }
